@@ -1,0 +1,50 @@
+[
+  {
+    "remote"     : "github",
+    "repository" : "Cygnus-devices/vendor_xiaomi_raphael",
+    "target_path": "vendor/xiaomi/raphael",
+    "branch": "ten"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "Cygnus-devices/kernel_xiaomi_raphael",
+    "target_path": "kernel/xiaomi/sm8150",
+    "branch": "pa-ten"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "Cygnus-devices/vendor_MiuiCamera",
+    "target_path": "vendor/xiaomi/raphael",
+    "branch": "caf-ten-sm8150"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "Cygnus-devices/hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio",
+    "branch": "caf-ten-sm8150"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "Cygnus-devices/hardware_qcom_media",
+    "target_path": "hardware/qcom/media",
+    "branch": "caf-ten-sm8150"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "Cygnus-devices/hardware_qcom_display",
+    "target_path": "hardware/qcom/display",
+    "branch": "caf-ten-sm8150"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "Cygnus-devices/vendor_qcom_opensource_commonsys-intf_display",
+    "target_path": "vendor/qcom/opensource/commonsys-intf/display",
+    "branch": "caf-ten-sm8150"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-17.1"
+  }
+]
